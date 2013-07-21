@@ -39,7 +39,7 @@
   "app": {
     "dev_host": "kleks.example.local",
     "prod_host": "kleks.example.com",
-    "themes": ["default","blue","green","brown","teal","aqua","purple","red"],
+    "themes": ["default","blue","green","brown","teal","aqua","purple","red", "skyblue", "darkblue"],
     "content_types": ["essay","scene","video","profile"]
   }
 }
